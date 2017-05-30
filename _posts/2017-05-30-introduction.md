@@ -4,7 +4,7 @@ title: "A Pop-ing introduction"
 date: 2017-05-30
 excerpt: "About me and my career so far."
 tags: [introduction, first post, first]
-comments: false
+comments: true
 ---
 
 Hello everyone!
