@@ -2,7 +2,7 @@
 layout: post
 title: "A Pop-ing introduction"
 date: 2017-05-30
-excerpt: "About the author of the blog and his punny hobbies and achievements."
+excerpt: "About me and my career so far."
 tags: [introduction, first post, first]
 comments: true
 ---
