@@ -3,7 +3,7 @@ layout: post
 title: "How to be lazy"
 date: 2017-05-31
 excerpt: "A post on automation and efficiency"
-tags: [automation, bash, terminal, wizards]
+tags: [automation, bash]
 comments: true
 ---
 
@@ -22,14 +22,14 @@ You can imagine that after the first 2 hours of doing these tasks I was already 
 as being tuck in a basement and reading blocks of HTML text is not as fulfilling as it may sound.
 
 My colleague that gave me those tasks however had already a small tool he developed in PHP to run the email 
-account checks however it was poorly written and not of acceptable company standards.
+account checks however it was too simple written and not of acceptable company standards.
 So both of us were tasked with "doing it properly" and were put in a dev cradle with a mentor on our side.
 
 That tool took around 1 year to finish and it ended up having 2 services and it's own API. Needless to say, the script 
 did it faster and could have saved some effort if we just applied some clean code practices to it.
 
-Soon enough, during the 1 year period of building this tool,  I've discovered various way of automating the 
-email specialist jobs, like senderscore checks, domain validations or other similar trivialities 
+During the 1 year period of building this tool,  I've discovered various way of automating the 
+various email specialist jobs, like senderscore checks, domain validations or other similar trivialities 
 that we had to run for all our customers (a big number). 
 
 This other features that we discovered are what actually delayed the tools release as we kept "improving" it but 

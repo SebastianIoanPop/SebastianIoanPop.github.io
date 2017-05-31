@@ -3,7 +3,7 @@ layout: post
 title: "A Pop-ing introduction"
 date: 2017-05-30
 excerpt: "About me and my career so far."
-tags: [introduction, first post, first]
+tags: [introduction, about]
 comments: true
 ---
 
