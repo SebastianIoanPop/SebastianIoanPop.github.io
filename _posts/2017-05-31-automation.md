@@ -49,7 +49,7 @@ with an Apache Storm project and I also changed my developing environment from a
 
 I have to say that I tried before having the mac to use the console for various automation 
 tasks (like using PowerShell azure cli) but it was just not clicking with me.
-However, as a consequence of a workshop held by Diego Luiz (his blog at http://diegoluiz.com) I learned to like the terminal.
+However, as a consequence of a workshop held by Diego Luiz (his blog <a href="http://diegoluiz.com">here</a>) I learned to like the terminal.
 
 After the workshop, I was faced with the first challenge:
 
@@ -116,9 +116,9 @@ you do need to spend about 3 hours reading some boring documentation at least on
 ###  But how and where?
 
 A few usefull links can be found here:
-- http://www.ee.surrey.ac.uk/Teaching/Unix/ basics
-- http://www.thegeekstuff.com/2010/11/50-linux-commands/?utm_source=feedburner should know
-- http://www.techradar.com/how-to/computing/apple/terminal-101-automate-the-terminal-with-bash-scripts-1305658 scripting
-- https://support.google.com/websearch/answer/134479?hl=en ..yes
+- <a href="http://www.ee.surrey.ac.uk/Teaching/Unix/">basics</a>
+- <a href="http://www.thegeekstuff.com/2010/11/50-linux-commands/?utm_source=feedburner"> should know </a>
+- <a href="http://www.techradar.com/how-to/computing/apple/terminal-101-automate-the-terminal-with-bash-scripts-1305658"> scripting </a>
+- <a href="https://support.google.com/websearch/answer/134479?hl=en"> ..yes </a>
 
 Note: it may differ depending on what operation system you're using but these links will give you the main idea on how automation works.
