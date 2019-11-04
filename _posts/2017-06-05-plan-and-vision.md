@@ -36,7 +36,7 @@ hours you spent clicking a button that is usually labeled "Craft"!
 A few games offered you achievements (looking at you WoW) but all of them followed the same pattern:
 - you are role playing as a crafter, a crafter is a creator and artist but you can only create a prepared items (nothing original)
 - the preset of items were in a list with a name-requirements
-- you click the button watch a repetitive animation of your character smashing an anvil (at least they could make that random ffs)
+- you click the button watch a repetitive animation of your character smashing an anvil (at least they could make that random)
 
 So what I want to start off with is focusing on crafting games, on games where you can create, games that use normal
 physics, geometry and material properties to dictate the strength of your creation or where enchanting is simillar to 
