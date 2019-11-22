@@ -15,6 +15,8 @@ I'm writing this post so that my players have an easier time knowing what to exp
 
 I’m a rather new DM but I have a preference towards storytelling and improvisation. In a world of magic rules are generally chaotic so because of that I do a lot of home brewing which also ensures that you cannot meta game. I don’t alter the CORE rules that you will know and understand, I will not alter your characters without your consent but you may find that the wilderness is a more dangerous place than most guides will tell you. In quality of a player you should not know what the creatures you're facing are fully capable of anyway so that's not even a problem.
 
+<img src="https://images.squarespace-cdn.com/content/v1/5740c779e3214003460bf2ee/1489696707178-OSYEZOAMM5FLP3YSRE6Q/ke17ZwdGBToddI8pDm48kFlt7bF35lztZoWd3r1VWj97gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UStNIXBwkxzCFLQho2sokbnhrrqOf8w7fGbDuPMZQQpOMW9u6oXQZQicHHG1WEE6fg/image-asset.png">
+
 # Terms and conditions
 
 ### Experience
@@ -54,8 +56,12 @@ Rolling methods: 4d6d1, 2d6+6, 3d6, 5d4-2 or any other crazy combo that results 
 
 I have a set of simple drawbacks for each lowest stat, under 8 stats come with a weight attached to it that we can discuss in session 0, for example lower than 8 intelligence means you cannot read/write.
 
+<img src="https://pics.me.me/rolladei-drop-the-lowest-iamiagenerousgod-my-generosity-as-a-dungeon-master-3417118.png">
+
 ### Inspiration
 I don't like the inspiration system, instead I use a luck point system, each player gets luck for good roleplay or other reasons that I may find fitting. You get 1d4 luck points that you hold in an unlimited pool. Luck points can be added to your dice rolls, as many as you want at once but only up to 20 on the total roll. You can also subtract from the roll. The ratio is 1:1 for your roles and 2:1 if you want to alter someone elses roll.
+
+<img src="https://66.media.tumblr.com/40804f88f3523198a915d609c47b4b97/8fa5cc9c316a5ac9-2b/s640x960/ed971f720e9d11b6d5ea1fd7ea43a74b10db8eeb.jpg">
 
 ### Death
 Death saving throws are rolled by me behind the screen, I will not tell you the success or failure, but I can record the throws if you wish so. I do this for dramatic purposes.
@@ -68,4 +74,8 @@ Tactics and plans are discussed before combat begins. You have 1 minute after ea
 
 Warning! If you spend too much time planning even before combat I will roll to see if you're discovered, the rolls are once a minute or at my own discretion. 
 
+<img src="https://litrpgreads.com/wp-content/uploads/2019/01/ad1506e43fe23617a0079e75752d3b9c.jpg">
+
 The reasoning behind this is that if you are placed in a real combat scenario you cannot afford to overthink, you act based on instinct and training, your character level will suddenly not just be how powerfull you are but also how confident and experienced in combat you are. You will learn and progress in the same manner as your character which is rather poetic
+
+
