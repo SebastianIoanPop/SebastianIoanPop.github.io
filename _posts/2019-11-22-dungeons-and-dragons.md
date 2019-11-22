@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: post
 title: "D&D - DM introduction and my games"
 date: 2019-11-22
 excerpt: "A simple post for my players to have an easy source for my D&D games."
