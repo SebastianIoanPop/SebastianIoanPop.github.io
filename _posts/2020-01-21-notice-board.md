@@ -21,7 +21,6 @@ The mariners guild is offering a reward for Captain Pinochet (dead or alive). He
 
 Contact any officer of the guild for more information and negotiations.
 
-![Pinochet](images/cn62640_created.png)
 ## Apothecary supplies: 
 
 The apothecary requires rare supplies from the underdark, the expedition sent to gather the last set of supplies has not returned. 
@@ -54,3 +53,6 @@ Thank you kindly,
 Cordast Chin of Maarlith
 ```
 Please talk to Anders Solmor for more information.
+
+## The strange note
+A note sits on the board, completely empty at first sight however you heard that it reveals some arcane text when the sun rays hit the paper. A warning sign has been posted below it to not touch or read the note as it's potentially dangerous. A wizard has been scheduled to arrive in a few tendays and remove the note.
