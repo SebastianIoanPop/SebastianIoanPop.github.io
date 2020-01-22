@@ -7,7 +7,7 @@ tags: [D&D, tabletop]
 comments: true
 ---
 
-<img src=https://www.elventower.com/wp-content/uploads/2018/06/thumbnail.jpg />
+<img src="https://www.elventower.com/wp-content/uploads/2018/06/thumbnail.jpg" />
 
 # The Wicked Goat tavern
 
@@ -43,6 +43,7 @@ A few letters arrived from the nearby fishing village of Maarlith, the officials
 Here's an exact copy of the letter received:
 
 ***
+
 Good tides to Saltmarsh!
 
 We wanted to express our gratitude for the latest shipment of ore. 
@@ -51,7 +52,9 @@ IS there any possibility for you to send us some human support, it seems that ou
 
 Thank you kindly, 
 Cordast Chin of Maarlith
+
 ***
+
 
 Please talk to Anders Solmor for more information.
 
