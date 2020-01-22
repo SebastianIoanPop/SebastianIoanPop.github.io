@@ -7,11 +7,11 @@ tags: [D&D, tabletop]
 comments: true
 ---
 
+<img src=https://www.elventower.com/wp-content/uploads/2018/06/thumbnail.jpg />
+
 # The Wicked Goat tavern
 
 On the wall next to the door at the Wicked Goat sits a notice board, news and requests can be posted on this board by anyone and everyone.
-
-<img src=https://www.elventower.com/wp-content/uploads/2018/06/thumbnail.jpg />
 
 Currently the following requests are displayed:
 
@@ -42,7 +42,7 @@ The lowest levels of the local mines have been sealed off. The dwarfs have repor
 A few letters arrived from the nearby fishing village of Maarlith, the officials of saltmarsh are worried about the hidden messages within.
 Here's an exact copy of the letter received:
 
-```
+***
 Good tides to Saltmarsh!
 
 We wanted to express our gratitude for the latest shipment of ore. 
@@ -51,7 +51,8 @@ IS there any possibility for you to send us some human support, it seems that ou
 
 Thank you kindly, 
 Cordast Chin of Maarlith
-```
+***
+
 Please talk to Anders Solmor for more information.
 
 ## The strange note
