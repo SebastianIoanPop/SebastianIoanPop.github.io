@@ -60,7 +60,10 @@ Paladins if they go against their oath will lose their powers immediately disapp
 
 Characters will generally start at 5th level with a few exceptions. Such as introduction of a full new group (level 4) or if there are not games available for a level range the players can create a higher level character to use only in the high level games (rarely will this be the case)
 
-Experience will be gained at the DM's discretion. Due to the nature of pub games we cannot really afford to run pure CR-EXP games or it would feel like progression takes forever. As a consequence we're running more deadly games where you will gain one level per session up to level 10 (unless the DM decides that the session was not worth a full level)
+Experience will be gained at the DM's discretion. Due to the nature of pub games we cannot really afford to run pure CR-EXP games or it would feel like progression takes forever. As a consequence the following experience grid is used:
+- 5-8 requires 2 sessions each level
+- 8-10 requires 3 sessions each level
+- Level 10+ is experience points aquired per session.
 
 After level 10 however the experience gained will be per encounter to avoid power leveling.
 
