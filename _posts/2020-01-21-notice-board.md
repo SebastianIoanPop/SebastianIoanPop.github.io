@@ -36,7 +36,7 @@ The lowest levels of the local mines have been sealed off. The dwarfs have repor
 
 ## Trouble in Maarlith: (multi session adventure, requires commitment)
 A few letters arrived from the nearby fishing village of Maarlith, the officials of saltmarsh are worried about the hidden messages within.
-Here's an exact copy of the letter received:
+Here's an exact copy of one of the letters received:
 
 ***
 
@@ -44,7 +44,9 @@ Good tides to Saltmarsh!
 
 We wanted to express our gratitude for the latest shipment of ore. 
 Our blacksmith has been quite HEctic since the transport arrived. 
-IS there any possibility for you to send us some human support, it seems that our fishermen are not as productive as they used to be, a small ship bearing the flags of saltmarsh stopped nearby and was WATCHING over our fisher boats for the past tendays but they left in a hurry just a few nights ago giving US no explanation.
+IS there any possibility for you to send us some human support, it seems that our fishermen are not as productive as they used to be, 
+a small ship bearing the flags of saltmarsh stopped nearby and was WATCHING over our 
+fisher boats for the past tendays but they left in a hurry just a few nights ago giving US no explanation.
 
 Thank you kindly, 
 Cordast Chin of Maarlith
@@ -52,7 +54,7 @@ Cordast Chin of Maarlith
 ***
 
 
-Please talk to Anders Solmor for more information.
+Please talk to Gellan Primewater for more information.
 
 <img src="https://i.redd.it/gz4a6dh79rmz.jpg">
 
