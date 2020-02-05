@@ -14,11 +14,6 @@ On the wall next to the door at the tavern sits a notice board, news and request
 
 Currently the following requests are displayed:
 
-## Pirate activity increased!
-The mariners guild is offering a reward for Captain Pinochet (dead or alive). He has intruded on Saltmarsh waters and has been looting trading caravels aggressively. 
-
-Contact any officer of the guild for more information and negotiations.
-
 ## Apothecary supplies: 
 The apothecary requires rare supplies from the underdark, the expedition sent to gather the last set of supplies has not returned. 
 
@@ -60,3 +55,20 @@ Please talk to Gellan Primewater for more information.
 
 ## The strange note
 A note sits on the board, completely empty at first sight however you heard that it reveals some arcane text when the sun rays hit the paper. A warning sign has been posted below it to not touch or read the note as it's potentially dangerous. A wizard has been scheduled to arrive in a few tendays and remove the note.
+
+## The volanian troupe tour reached saltmarsh!
+
+Attention to all music, show and entertainment lovers! The volanian troupe has reached saltmarsh and will perform for everyone's delight. The stage has been setup just outside the town gates, tickets are available at your local taverns.
+
+Prices:
+- 10G Stanadrd ticket
+- 10P VIP ticket
+
+A number of contests are available for those daring enough to try, entrance free for participants:
+- The ring of blood (gladiatorial combat, participate at your own risk!)
+- Saltmarsh has talent
+- The survival games
+
+Disclaimer: The volanian troupe is not responsible for the loss of life/limb of any of the contestants, participation is purely voluntary.
+
+First place winners in each of the categories will be awarded 500GP each and special secret reward handpicked by Julianus Caelar and his most trusted advisor Brutis
