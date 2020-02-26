@@ -26,9 +26,6 @@ The troll population in the marshes has grown out of control and the patrols can
 
 <img src="https://i1.wp.com/nerdarchy.com/wp-content/uploads/2018/04/forest-troll.jpg?fit=1200%2C727&ssl=1">
 
-## The miners union (risk of character death or TPK)
-The lowest levels of the local mines have been sealed off. The dwarfs have reported strange noises echoing through the caverns, many miners were left without a job. They have put together their meagre earnings to hire a scouting group to investigate the mines
-
 ## Trouble in Maarlith: (multi session adventure, requires commitment)
 A few letters arrived from the nearby fishing village of Maarlith, the officials of saltmarsh are worried about the hidden messages within.
 Here's an exact copy of one of the letters received:
@@ -52,9 +49,6 @@ Cordast Chin of Maarlith
 Please talk to Gellan Primewater for more information.
 
 <img src="https://i.redd.it/gz4a6dh79rmz.jpg">
-
-## The strange note
-A note sits on the board, completely empty at first sight however you heard that it reveals some arcane text when the sun rays hit the paper. A warning sign has been posted below it to not touch or read the note as it's potentially dangerous. A wizard has been scheduled to arrive in a few tendays and remove the note.
 
 ## The volanian troupe tour reached saltmarsh!
 
